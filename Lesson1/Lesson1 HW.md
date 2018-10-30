@@ -1,6 +1,6 @@
 # Lesson 1: Python Intro HW
 
-###Task 1 - Set up:
+### Task 1 - Set up:
 Download and install Python and PyCharm on any machine you plan to use.
 
 ### Task 2 - Read:
