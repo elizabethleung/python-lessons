@@ -1,4 +1,4 @@
-# Lesson 2: OOP and Version Control HW
+# Lesson 2: OOP and Version Control Review
 
 Now that you have Git downloaded and cloned the repo we created during the lesson, 
 let's review the topics that we touched on during our OOP and version control lesson.
